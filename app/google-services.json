@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "530711462284",
+    "firebase_url": "https://studytopia-cd1f9.firebaseio.com",
+    "project_id": "studytopia-cd1f9",
+    "storage_bucket": "studytopia-cd1f9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:530711462284:android:68853a80cbca2393a696a9",
+        "android_client_info": {
+          "package_name": "com.fortunetechnology.studytopia"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "530711462284-c286tmlj1surlefdkmjbh13mbc0t6plb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.fortunetechnology.studytopia",
+            "certificate_hash": "490e4774df11d04479e4f1c45a43977e2d1b5a05"
+          }
+        },
+        {
+          "client_id": "530711462284-nth4ee0g1is72cbujptcbu65a0u6kj94.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBRTakG_ysLmF7q85Vlwjz4qlEVJjGw9k8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "530711462284-nth4ee0g1is72cbujptcbu65a0u6kj94.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
