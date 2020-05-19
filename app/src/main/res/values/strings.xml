@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">Studytopia</string>
+    <string name="study_group_logo">Studytopia Logo</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="don_t_have_an_account_click_here">Don\'t Have an Account? Tap Here.</string>
+    <string name="create_account">Create Account</string>
+    <string name="forgot_password_login">Forgot Password?</string>
 </resources>
