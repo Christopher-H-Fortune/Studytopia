@@ -7,4 +7,5 @@
     <string name="don_t_have_an_account_click_here">Don\'t Have an Account? Tap Here.</string>
     <string name="create_account">Create Account</string>
     <string name="forgot_password_login">Forgot Password?</string>
+    <string name="username">Username</string>
 </resources>
